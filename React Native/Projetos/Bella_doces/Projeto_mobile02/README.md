@@ -1,6 +1,7 @@
 # Projeto Extensionista - Loja de Doces
 
 Implementação de uma nova paleta de cores e novas fontes, trazendo uma identidade melhorada para o aplicativo.
+Apenas a página de login está com a nova identidade, falta colocar nas outras páginas.
 
 ## Design atualizado
 <img width="506" height="813" alt="image" src="https://github.com/user-attachments/assets/83178125-f675-4b31-b88f-21dc69ff3b11" />
