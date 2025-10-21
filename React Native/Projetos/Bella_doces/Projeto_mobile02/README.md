@@ -7,3 +7,6 @@ Implementação de uma nova paleta de cores e novas fontes, trazendo uma identid
 
 ## Design anterior
 <img width="506" height="814" alt="image" src="https://github.com/user-attachments/assets/d58e1d7c-3de0-4efe-a916-70aa45dd4bd6" />
+
+## Paleta de cores criada
+<img width="1809" height="471" alt="image" src="https://github.com/user-attachments/assets/47e6e0a5-f2cc-4464-9674-151d6b6ff825" />
