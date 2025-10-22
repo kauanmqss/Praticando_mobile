@@ -1,3 +1,3 @@
-#Projeto Extensionista - Loja de doces
+# Projeto Extensionista - Loja de doces
 
 Pequenas correções e alterações na página inicial.
